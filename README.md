@@ -61,9 +61,8 @@ docker run -p 3000:3000 meal-calorie-frontend
 ```
 ## 📸 Screenshots
 
-
-![Login Screenshot](/screenshots/login.png)
-![Dashboard Screenshot](/screenshots/dashboard.png)
+![Login Screenshot](public/screenshots/login.png)
+![Dashboard Screenshot](public/screenshots/dashboard.png)
 
 
 

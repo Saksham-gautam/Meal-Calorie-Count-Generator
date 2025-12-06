@@ -24,12 +24,12 @@ A production-ready frontend interface for the Meal Calorie Count Generator, buil
 1. **Clone the repository**
    ```bash
    git clone <repo-url>
-   cd meal-calorie-frontend-antigravity
+   cd meal-calorie-frontend-saksham-gautam
    ```
 
 2. **Install Dependencies**
    ```bash
-   pnpm install
+   npm install
    ```
 
 3. **Configure Environment**
@@ -41,7 +41,7 @@ A production-ready frontend interface for the Meal Calorie Count Generator, buil
 
 4. **Run Development Server**
    ```bash
-   pnpm dev
+   npm run dev
    ```
    Open [http://localhost:3000](http://localhost:3000).
 
@@ -49,7 +49,7 @@ A production-ready frontend interface for the Meal Calorie Count Generator, buil
 
 Running unit tests:
 ```bash
-pnpm test
+npm test
 ```
 
 ## 🐳 Docker (Bonus)

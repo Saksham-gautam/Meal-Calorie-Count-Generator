@@ -61,6 +61,12 @@ docker run -p 3000:3000 meal-calorie-frontend
 ```
 ## 📸 Screenshots
 
+
+![Login Screenshot](/screenshots/login.png)
+![Dashboard Screenshot](/screenshots/dashboard.png)
+
+
+
 ## 📝 Decisions & Trade-offs
 
 - **AuthGuard**: Implemented as a client-side wrapper in `layout.tsx` for simplicity in this SPA-like architecture. For SSR protection, Middleware would be the next step.

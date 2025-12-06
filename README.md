@@ -45,7 +45,7 @@ A production-ready frontend interface for the Meal Calorie Count Generator, buil
    ```
    Open [http://localhost:3000](http://localhost:3000).
 
-## 🧪 Testing (Bonus)
+#🧪 Testing (Bonus)
 
 Running unit tests:
 ```bash
@@ -59,10 +59,7 @@ Build and run with Docker:
 docker build -t meal-calorie-frontend .
 docker run -p 3000:3000 meal-calorie-frontend
 ```
-
 ## 📸 Screenshots
-
-
 
 ## 📝 Decisions & Trade-offs
 

@@ -21,12 +21,15 @@ A production-ready frontend interface for the Meal Calorie Count Generator, buil
 
 ## 🏁 Getting Started
 
-1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/Saksham-gautam/Meal-Calorie-Count-Generator.git](https://github.com/Saksham-gautam/Meal-Calorie-Count-Generator.git)
-   live Url :- [https://meal-calorie-frontend-saksham-gauta.vercel.app/dashboard](https://meal-calorie-frontend-saksham-gauta.vercel.app/dashboard)
-   cd meal-calorie-frontend-saksham-gautam
-   ```
+1. # Clone the repository
+git clone https://github.com/Saksham-gautam/Meal-Calorie-Count-Generator.git
+
+# Live URL
+# https://meal-calorie-frontend-saksham-gauta.vercel.app/dashboard
+
+# Move into the project folder
+cd meal-calorie-frontend-saksham-gautam
+
 
 2. **Install Dependencies**
    ```bash

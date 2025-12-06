@@ -62,7 +62,7 @@ docker run -p 3000:3000 meal-calorie-frontend
 
 ## 📸 Screenshots
 
-*(Add screenshots here)*
+
 
 ## 📝 Decisions & Trade-offs
 
